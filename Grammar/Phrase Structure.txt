@@ -1,0 +1,62 @@
+Phrase Structure:
+
+S -> NP VP
+NP -> NNS
+VP -> VPB IN S
+S -> NP VP
+NP -> DT JJ NNS PP
+PP -> IN NP
+NP -> DT NN
+VP -> VPB PP
+PP -> IN NP
+NP -> DT NN NN
+
+
+
+
+						 	  S
+	__________________________|__________________________
+	|								   					|																									
+	|						   		   					|																									
+	|								   					|																									
+    NP								  					VP 																									
+    |			  ______________________________________|____________________________________																
+    |			  |			 |												                |																
+    |			  |			 |																|																
+    |			  |			 |																|																
+    |			  |			 |																|																
+    |			  |			 |																|																
+    |			  |  		 |																|																
+	|             |			 |												 				|																
+	|             |			 |																|																
+	|			  |			 |												 				S 																
+	|			  |			 |										________________________|________________________										
+	|			  |			 |										|												| 										
+	|			  |			 |										|												| 										
+	|			  |			 |										|											   VP 										
+	|			  |			 |									   NP									  __________|__________								
+	|			  |			 |						________________|_______________					  |					  |								
+	|			  |			 |						|							   |					  |					  |								
+	|			  |			 |						|							   |      				  |					  |								
+	|			  |			 |						|							   |					  |					  |								
+	|			  |			 |						|							   PP					  |					 PP								
+	|			  |			 |						|						 ______|_______		    	  |			 _________|_________ 					
+	|			  |			 | 						|						 |			  |				  |			 |				   |					
+	|			  |			 |						|						 |			  |				  |			 |				   |									
+	|			  |			 |						|						 |			  |				  |			 |				   |					
+	|			  |			 | 					   NP						 |			 NP				  |			 |				  NP					
+	|			  |			 |			 ___________|______________			 |       _____|____			  |			 |		 __________|____________ 		
+ 	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+   NNS			 VBP		IN			DT	   	   JJ			 NNS		IN		DT		 NN			 VBP		IN		DT	 	  NN	 	  NN 		
+	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+	|			  |			 |			 |			|			  |			 |		 |		  |			  |			 |		 |		   |		   |		
+Scientists		think		that		any		habitable		areas		on		the		planet		 are		in		the		border		region		
+*************************************************************************************************************************************************************
+Difficulties:
+So I probably found this to be a lot more difficult than it actually is. What confused me most was the use of "that." The word that, according to my online 
+research and my research in the textbook (Jurafskey & Martin pg 128), is actually a complementizer which is just a more complicated name for a subordinating 
+conjunction, which is why it is denoted as "IN." The subordinating clause's structure was easy to describe, but I was not entirely sure how to link the 
+clause the the main clause "Scientists think." I decided to include the subordinating clause in the Verb Phrase. I hope my research did not lead me wrong!
